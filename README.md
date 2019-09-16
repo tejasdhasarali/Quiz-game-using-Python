@@ -9,4 +9,6 @@ The game tracks the progress of the participant and displays the current score a
 
 The participant can choose to continue the game even after exhausting the selected number of questions.
 
+A GUI of login page and Thank you page using Tkinter was also created, it can be seen in the files login.py and end.py
+
 For the future work, the questions will be directly retrieved from the MySQL database.
